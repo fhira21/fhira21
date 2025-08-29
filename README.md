@@ -24,13 +24,15 @@
 ## 🚀 Featured Projects
 - [QuizzApp](https://github.com/fhira21/QuizzApp) – Mobile app for interactive quizzes  
 - [Manajemen_Bengkel_Online](https://github.com/fhira21/Manajemen_Bengkel_Online) – Web app for workshop management  
-- [fe_bytelogic](https://github.com/fhira21/fe_bytelogic) – Frontend project for performance evaluation system  
+- [fe_bytelogic](https://github.com/fhira21/fe_bytelogic) – Frontend project for performance evaluation system
+- [be_bytelogic](https://githum.com/fhira21/be_bytelogic) - Backend Project for performance evaluation system
+- [Manajemen_Capstone_Project](https://github.com/fhira21/manajemen-capstone-project) - Project Manager for website Manajemen Capstone project
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: fhira21@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 📧 Email: mfhiratriana@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/fhira)  
 
 ---
 
