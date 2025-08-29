@@ -32,7 +32,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: mfhiratriana@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/fhira)  
+- 💼 LinkedIn: [linkedin.com/fhiratriana](https://www.linkedin.com/in/fhira)  
 
 ---
 
