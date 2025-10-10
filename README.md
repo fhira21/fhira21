@@ -33,6 +33,7 @@
 ## 📫 Connect with Me
 - 📧 Email: mfhiratriana@gmail.com  
 - 💼 LinkedIn: [linkedin.com/fhiratriana](https://www.linkedin.com/in/fhira)  
+- Portofolio: [Fhira Triana M](https://portofoliofhira.netlify.app/)
 
 ---
 
