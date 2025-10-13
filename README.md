@@ -27,6 +27,7 @@
 - [fe_bytelogic](https://github.com/fhira21/fe_bytelogic) – Frontend project for performance evaluation system
 - [be_bytelogic](https://githum.com/fhira21/be_bytelogic) - Backend Project for performance evaluation system
 - [Manajemen_Capstone_Project](https://github.com/fhira21/manajemen-capstone-project) - Project Manager for website Manajemen Capstone project
+- [Portfolio client](https://github.com/fhira21/ardhita-portfolio.git) - Project Portfolio Client
 
 ---
 
