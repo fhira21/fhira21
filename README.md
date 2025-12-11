@@ -39,15 +39,19 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+## 📊 Skills Graph
+
+[![My Skills](https://skillicons.dev/icons?i=react,reactnative,flutter,nodejs,express,mongodb,mysql,firebase,supabase,git,github,vscode,postman,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhira21&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhira21&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=fhira21&show_icons=true&theme=radical&count_private=true" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=fhira21&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
