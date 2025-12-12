@@ -73,6 +73,8 @@
 
 - **[Manajemen Capstone Project](https://github.com/fhira21/manajemen-capstone-project)**  
   Capstone project management website.
+- **[AI Travell Planner](https://github.com/fhira21/ai-travell-planning)**
+  AI Travell Planner.
 
 ### 🎨 Client Projects
 - **[Portfolio Client – Ardhita](https://github.com/fhira21/ardhita-portfolio)**  
