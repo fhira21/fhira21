@@ -73,10 +73,10 @@
 
 - **[Manajemen Capstone Project](https://github.com/fhira21/manajemen-capstone-project)**  
   Capstone project management website.
+  
 - **[AI Travell Planner](https://github.com/fhira21/ai-travell-planning)**
-  AI Travell Planner.
+  Website for planning itineraries and budgets for holidays.
 
-### 🎨 Client Projects
 - **[Portfolio Client – Ardhita](https://github.com/fhira21/ardhita-portfolio)**  
   Professional portfolio website for client.
 
@@ -84,7 +84,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: **mfhiratriana@gmail.com**  
+- 📧 Email: **linlinmeilani21@gmail.com**  
 - 💼 LinkedIn: **[linkedin.com/in/fhiratriana](https://www.linkedin.com/in/fhira)**  
 - 🌐 Portfolio: **[portofoliofhira.netlify.app](https://portofoliofhira.netlify.app/)**  
 
