@@ -45,7 +45,7 @@
 
 ## 📊 Skills Graph
 
-[![My Skills](https://skillicons.dev/icons?i=react,reactnative,flutter,nodejs,express,mongodb,mysql,firebase,supabase,git,github,vscode,postman,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,bootstrap,tailwindcss,javascript,react,vuejs,nextjs,nodejs,express,mongodb,mysql,postgresql,supabase,git,github,vscode,postman,swagger&theme=dark)](https://skillicons.dev)
 
 ---
 
