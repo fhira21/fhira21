@@ -84,6 +84,9 @@
 - **[Portfolio Client – Ardhita](https://github.com/fhira21/ardhita-portfolio)**  
   Professional portfolio website for client.
 
+- **[Warung Pintar](https://github.com/fhira21/Fe_Warung_pintar)**
+  Manajemen data product, sell price, base price and supplier in minimarket.
+
 ---
 
 ## 📫 Connect with Me
